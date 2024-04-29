@@ -22,4 +22,4 @@
 ![output img](./screenshot/image.png)  
 
 ### Time Taken - 5 hours
-### Live link -
+### Live link - [Link](https://saas-landing-page-amber.vercel.app/)
